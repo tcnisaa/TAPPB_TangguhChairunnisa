@@ -1,17 +1,5 @@
-# ta_nicaca
+# Aplikasi "Movie Jorunal"
+Aplikasi berisikan halamam-halaman yang memuat tentang daftar film yang sedang tayang, film yang akan tayang, "to watch" film, dan sebagainya.
+Aplikasi menggunakan Flutter. Daftar film dimuat menggunakan API.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# TAPPB_TangguhChairunnisa" 
+Tangguh Chairunnisa
